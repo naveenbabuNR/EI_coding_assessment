@@ -127,13 +127,28 @@ Ensure that new tasks do not overlap with existing tasks.
 
 *Add Task:*  Follow the prompts to enter the task description, start time, end time, and priority.
 
+
 ![image](https://github.com/user-attachments/assets/bafccd7b-027f-4d30-a2ff-a19473a0bf2c)
 
+
+
 *Remove Task:*  Enter the description of the task to remove.
+
+
 ![image](https://github.com/user-attachments/assets/650fe2c6-8471-4985-ac95-8ca774bc832b)
 
+
+
 *View Tasks:*  Displays all tasks sorted by start time.
+
+
 ![image](https://github.com/user-attachments/assets/922763de-4df6-4bec-8aef-60a2d6135624)
 
+
+
 *Exit:*  Terminates the application.
+
+
 ![image](https://github.com/user-attachments/assets/ce9f3f05-c8da-4b06-af80-cb619cce5b32)
+
+
